@@ -10,5 +10,7 @@
 
 5. Book1/
 
-6.Everything in local : In feature branch, created a file "thor". Did git checkout main > Thor also started showing on main (locally).
+6.Everything in local : In feature branch, created a file "thor". Did git checkout main > Tihor also started showing on main (locally).
   Now we again git checkout feature > Did git push. Now we came to main(local)> ls > Thor is no more.
+
+  I think I got a remediation for this : File banaan k baad hm changes commit nahi kr rhe the, jiske kaaran Thor untracked hi reh ja rha tha. To maybe git decide nahi kr pa rha hoga ki isko kon se repo me        rakhna h. So, thor saarebranches display ho rha tha.  ONCE I COMMITED THE CHANGE IN THE FEATURE BRANCH,  THOR  NO LONGER GET DISPLAYED ON OTHER BRANCHES.   	
