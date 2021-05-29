@@ -1,0 +1,9 @@
+1 .git feature create kiye, main pehle se tha, (both are local repo)
+  made sm changes in feature, and in order to make those changes visible on local main go to main (git checkout  main) and then "git merge feature".
+
+2. remote repo pe ek branch tha of name "feature"( whuch was created bt Suraj). Mere local repo me feature nam ka ki branch nhi tha. 
+   When I run "git checkout feature", new branch got created in my local repo which was identical to the feature branch in the remote repo.
+
+3 . Empety folder cholbe na : tm ek empty folder bnaao apne local repo me and do git status, it will not show
+
+4. Pull krne se saare branch update ho jaate h? Nahi. Hr local repo me jaake pull krna pdega
