@@ -1,3 +1,6 @@
 [submodule "sub2"]
 	path = sub2
 	url = https://github.com/kkmanu420/Haweli.git
+[submodule "sb3"]
+	path = sb3
+	url = https://github.com/kkmanu420/Haweli.git
